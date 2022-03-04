@@ -2,7 +2,7 @@
 
 [ext_resource path="res://checker_cell/checker_cell.gd" type="Script" id=1]
 
-[node name="CheckerCell" type="Button" groups=["checker_cell"]]
+[node name="CheckerCell" type="Button"]
 margin_right = 24.0
 margin_bottom = 27.0
 rect_min_size = Vector2( 32, 32 )
